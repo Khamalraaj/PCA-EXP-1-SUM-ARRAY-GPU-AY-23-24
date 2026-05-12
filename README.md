@@ -278,7 +278,7 @@ int main(int argc, char **argv)
     free(gpuRef);
 
     return(0);
-}<img width="1762" height="533" alt="image" src="https://github.com/user-attachments/assets/d338fe46-6796-45eb-8a4e-c6cfea5ff0dc" />
+}
 
 ```
 ```
